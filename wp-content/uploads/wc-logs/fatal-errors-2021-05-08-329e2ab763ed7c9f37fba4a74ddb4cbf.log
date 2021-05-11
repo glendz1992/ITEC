@@ -1,0 +1,48 @@
+2021-05-08T05:39:31+00:00 CRITICAL Uncaught Error: Call to undefined function astra_html_before() in C:\xampp\htdocs\Wordpress2\wp-content\themes\blank\header.php:18
+Stack trace:
+#0 C:\xampp\htdocs\Wordpress2\wp-includes\template.php(730): require_once()
+#1 C:\xampp\htdocs\Wordpress2\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\Wordpress2\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\Wordpress2\wp-content\themes\blank\index.php(15): get_header()
+#4 C:\xampp\htdocs\Wordpress2\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Wordpress2\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Wordpress2\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\Wordpress2\wp-content\themes\blank\header.php on line 18
+
+2021-05-08T05:39:37+00:00 CRITICAL Uncaught Error: Call to undefined function astra_html_before() in C:\xampp\htdocs\Wordpress2\wp-content\themes\blank\header.php:18
+Stack trace:
+#0 C:\xampp\htdocs\Wordpress2\wp-includes\template.php(730): require_once()
+#1 C:\xampp\htdocs\Wordpress2\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\Wordpress2\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\Wordpress2\wp-content\themes\blank\index.php(15): get_header()
+#4 C:\xampp\htdocs\Wordpress2\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Wordpress2\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Wordpress2\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\Wordpress2\wp-content\themes\blank\header.php on line 18
+
+2021-05-08T05:46:07+00:00 CRITICAL Uncaught Error: Call to undefined function astra_html_before() in C:\xampp\htdocs\Wordpress2\wp-content\themes\blank\header.php:18
+Stack trace:
+#0 C:\xampp\htdocs\Wordpress2\wp-includes\template.php(730): require_once()
+#1 C:\xampp\htdocs\Wordpress2\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\Wordpress2\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\Wordpress2\wp-content\themes\blank\index.php(15): get_header()
+#4 C:\xampp\htdocs\Wordpress2\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Wordpress2\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Wordpress2\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\Wordpress2\wp-content\themes\blank\header.php on line 18
+
+2021-05-08T05:46:10+00:00 CRITICAL Uncaught Error: Call to undefined function astra_html_before() in C:\xampp\htdocs\Wordpress2\wp-content\themes\blank\header.php:18
+Stack trace:
+#0 C:\xampp\htdocs\Wordpress2\wp-includes\template.php(730): require_once()
+#1 C:\xampp\htdocs\Wordpress2\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\Wordpress2\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\Wordpress2\wp-content\themes\blank\index.php(15): get_header()
+#4 C:\xampp\htdocs\Wordpress2\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Wordpress2\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Wordpress2\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\Wordpress2\wp-content\themes\blank\header.php on line 18
+
